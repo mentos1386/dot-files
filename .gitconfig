@@ -1,0 +1,7 @@
+[user]
+	name = Tine Jozelj
+	email = mentos1386@outlook.com
+[core]
+	autocrlf = input
+[push]
+	default = simple
